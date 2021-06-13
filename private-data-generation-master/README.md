@@ -1,3 +1,8 @@
+##THIS CODE HAS BEEN ALTERED SO TO USE FOR MY MASTER THESIS##
+
+##Code is heavily inspired by BorealisAI.
+
+
 # Private Data Generation Toolbox
 
 The goal of this toolbox is to make private generation of synthetic data samples accessible to machine learning practitioners. It currently implements 5 state of the art generative models that can generate differentially private synthetic
